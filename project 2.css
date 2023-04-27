@@ -1,0 +1,62 @@
+
+body{
+    background-image: url(../img/14924444_rm194-aew-11.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Amiri', serif;
+    transition: 5s;
+}
+h2{
+    text-align: center;
+    font-size: 500%;
+    color: #ffffff;
+    text-shadow: 1px 1px 10px rgb(196, 92, 8);
+}
+.p1{
+    font-size: 35px;
+    color: aliceblue;
+    line-height: 130px;
+}
+.line{
+    border-bottom: 1px solid #f49577;
+    border-radius: 3px;
+    box-shadow: 5px 5px 20px #f49577;
+    width: 1200px;
+}
+.listen{
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    color: aliceblue;
+    text-shadow: 1px 1px 10px rgb(196, 92, 8);
+}
+.sound{
+    border: 3px solid rgb(208, 115, 38);
+    border-radius: 50px;
+    transition: 0.75s;
+}
+.sound:hover{
+    box-shadow: 1px 1px 15px rgb(211, 107, 22);
+    width: 500px;
+}
+.back{
+    font-family: 'Cairo', sans-serif;
+    margin-top: 5%;
+}
+#back{
+    font-size: 20px;
+    color: #ffffff;
+    text-shadow: 1px 1px 10px rgb(175, 115, 66);
+    transition: 1s;
+}
+#back:hover{
+    color: #fdbfac;
+    text-shadow: 2px 2px 10px rgb(238, 158, 92);
+    border-bottom: 1px solid rgb(196, 92, 8);
+    border-radius: 5px;
+}
